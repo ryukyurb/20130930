@@ -2,7 +2,21 @@
 
 ## 今日の課題
 
-- Githubを使いこなせるようになろう！！
+- githubを使いこなせるようになろう！！
+
+### 勉強の進め方
+
+1. githubへのアカウント登録
+2. gravator
+3. リポジトリ制作
+4. commit
+5. push
+6. 複数人との共同編集に挑戦
+7. forkする
+8. forkしたリポジトリをcloneする
+9. 書き換えて…
+10. commit〜pushする
+11. pull requestする
 
 ## おわりに
 
